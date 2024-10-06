@@ -1,4 +1,4 @@
-Sentiment Analysis with Movie Reviews
+#Sentiment Analysis with Movie Reviews
 
 
 This GitHub repository explores sentiment analysis using movie reviews from Rotten Tomatoes. The project aims to identify words that appear more frequently in positive ("fresh") and negative ("rotten") reviews.
